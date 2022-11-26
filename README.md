@@ -1,4 +1,4 @@
-# Sian Clientle App
+# Sian Clientele App
 
 ![sian_clientele_home_page](https://user-images.githubusercontent.com/114652346/195317927-67069fed-33af-4d1e-b9bb-ea32fa6bd5ea.jpeg)
 ![sian_clientele_login_page](https://user-images.githubusercontent.com/114652346/195317992-b5ad51b7-4a57-449c-8a2a-bc498891f179.jpeg)
